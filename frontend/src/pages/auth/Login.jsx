@@ -71,12 +71,7 @@ const Login = () => {
             </button>
           </form>
 
-          <div className="mt-6 p-4 bg-gray-50 dark:bg-gray-800 rounded-xl text-xs text-gray-500 space-y-1">
-            <p className="font-medium text-gray-700 dark:text-gray-300">Demo Accounts:</p>
-            <p>Admin: admin@menuflow.com / admin123</p>
-            <p>Waiter: waiter@menuflow.com / waiter123</p>
-            <p>Kitchen: kitchen@menuflow.com / kitchen123</p>
-          </div>
+          
         </div>
       </motion.div>
     </div>
